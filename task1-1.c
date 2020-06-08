@@ -1,4 +1,4 @@
-// Linear structure of processes: P1 -> P2 -> P3 -> P4
+// Linear structure of processes: P1 -> P2 -> P3 & P4
 
 #include <unistd.h>
 #include <stdio.h>
